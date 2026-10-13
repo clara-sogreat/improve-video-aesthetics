@@ -1,4 +1,5 @@
-# Solgrid Skills
+
+# Improve Video Aesthetics
 
 [English](README.md) · 简体中文
 
@@ -22,11 +23,11 @@
 
 ```bash
 # Clone the repository / 克隆仓库
-git clone https://github.com/clara-sogreat/solgrid.git
+git clone https://github.com/clara-sogreat/improve-video-aesthetics.git
 # Create your skills directory / 创建技能目录
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 # Install the skill / 安装技能
-cp -R solgrid/skill/improve-video-aesthetics "${CODEX_HOME:-$HOME/.codex}/skills/"
+cp -R improve-video-aesthetics/skill/improve-video-aesthetics "${CODEX_HOME:-$HOME/.codex}/skills/"
 ```
 
 也可下载 ZIP，把其中的 `improve-video-aesthetics/` 文件夹放进技能目录。支持 `SKILL.md` 的其他 agent 可按各自约定使用。
