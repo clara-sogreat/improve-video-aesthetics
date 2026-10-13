@@ -1,5 +1,5 @@
 
-# Solgrid Skills
+# Improve Video Aesthetics
 
 English · [简体中文](README.zh-CN.md)
 
@@ -23,11 +23,11 @@ Clone this repository, then copy the skill folder into your skills directory:
 
 ```bash
 # Clone the repository / 克隆仓库
-git clone https://github.com/clara-sogreat/solgrid.git
+git clone https://github.com/clara-sogreat/improve-video-aesthetics.git
 # Create your skills directory / 创建技能目录
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 # Install the skill / 安装技能
-cp -R solgrid/skill/improve-video-aesthetics "${CODEX_HOME:-$HOME/.codex}/skills/"
+cp -R improve-video-aesthetics/skill/improve-video-aesthetics "${CODEX_HOME:-$HOME/.codex}/skills/"
 ```
 
 Alternatively, download the ZIP and extract `improve-video-aesthetics/` into that directory. Other agents that support `SKILL.md` can use the same folder according to their own installation conventions.
