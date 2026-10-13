@@ -1,0 +1,21 @@
+[
+  {
+    "fixed": [
+      "same 3D cell geometry",
+      "frame75",
+      "camera",
+      "materials",
+      "1280x720",
+      "EEVEE32samples"
+    ],
+    "only_change": "warm sun key power, A450W / B1650W",
+    "expected": "greater readability of busbars and metal/glass layers without changing physical content",
+    "observed": "B gives brighter metal contact edges and more legible top microgrid; silhouette, layer structure and camera identical. A is too dark to reveal material distinctions.",
+    "content_preserved": true,
+    "decision": "retain B; widen camera15% independently for finalcaption safe area",
+    "evidence": [
+      "cell-light-A.png",
+      "cell-light-B.png"
+    ]
+  }
+]

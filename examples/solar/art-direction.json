@@ -1,0 +1,44 @@
+{
+  "skill": "improve-video-aesthetics",
+  "user_approved_direction": "deep-black silicon + warm-gold sunlight cinematic technology advertisement",
+  "intent": "Follow light through a real photovoltaic system into usable power; make hidden mechanisms tangible and striking.",
+  "invariants": [
+    "30 seconds",
+    "16:9 1920x1080 30fps",
+    "real photovoltaic footage retained",
+    "science remains unchanged",
+    "Clara/Solgrid",
+    "diagrams labeled illustration",
+    "approved piano-only accompaniment in the final demo"
+  ],
+  "color": {
+    "base": "ink navy/charcoal silicon",
+    "key": "warm-white sunlight upper-left",
+    "accent1": "gold incident sunlight and DC input/labels",
+    "accent2": "cyan charge markers and AC output",
+    "rule": "Across cuts, direct-current labels/input remain gold and AC output remains cyan; particle geometry distinguishes charge markers from incoming light streaks."
+  },
+  "material": [
+    "matte microtextured silicon",
+    "thin glass reflection",
+    "brushed dark aluminum inverter",
+    "soft contact shadows",
+    "subtle floor reflection"
+  ],
+  "camera": "oblique perspective, controlled slow push/orbit, one focal point per shot",
+  "exclusions": [
+    "uniform neon outlines",
+    "heavy darkness on footage",
+    "random particles",
+    "long logo intro",
+    "science-inaccurate exploding hardware"
+  ],
+  "style_comparison": "same cell geometry/camera/frame, only warm-key intensity differs in A/B; choose after actual frames",
+  "validation_order": [
+    "physical structure and meaning",
+    "common light/color/material",
+    "motion stability",
+    "visual hook/story",
+    "captions/audio/output checks"
+  ]
+}
