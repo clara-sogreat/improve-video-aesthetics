@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Video Aesthetics"
+  short_description: "Art direction, consistent assets, and motion review"
+  default_prompt: "Use $improve-video-aesthetics to diagnose my footage and references, define shared art constraints, compare styles, and plan consistent assets and motion checks."
